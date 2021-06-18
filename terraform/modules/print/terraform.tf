@@ -1,3 +1,3 @@
 output "display" {
-  value = "Version 1: ${var.to_show}"
+  value = "Version 2: ${var.to_show}"
 }
